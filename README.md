@@ -58,6 +58,10 @@ The platform can be accessed through mobile applications and station kiosks, ens
 
 ## Use Cases
 Passenger Navigation
+<img width="434" height="588" alt="image" src="https://github.com/user-attachments/assets/014eacbe-25db-40a7-ab76-749e7bf85a3d" />
+
+
+<img width="833" height="1005" alt="image" src="https://github.com/user-attachments/assets/f75e62fc-bfd7-404e-b46c-7c52f3dcf704" />
 
 Passengers can search and navigate to:
 
