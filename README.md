@@ -93,14 +93,23 @@ Send alerts and announcements
 ## Technology Stack
 
 Category	    -    Technology
+
 Frontend	    -    React.js, React Native
+
 Backend	      -    Node.js, Express.js
+
 Database	    -    MongoDB
+
 UI Design	    -    Tailwind CSS
+
 3D Mapping    -    Three.js
+
 Cloud Services-	   Firebase
+
 APIs	        -    OpenStreetMap API
+
 AI Services	  -    Text-to-Speech API
+
 Version Control- 	 Git & GitHub
 
 ## Dependencies
